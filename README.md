@@ -1,2 +1,2 @@
 # Digital_Music_Store_Data_Analysis
-Music_Store_Data_Analysis_Using_PgAdmin
+Music_Store_Data_Analysis_Using_SQL
